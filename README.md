@@ -15,8 +15,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![Mobile Image](images/Screenshot%202023-01-06%20131116.png)
-![Mobile Image](images/Web%20capture_6-1-2023_133333_127.0.0.1.jpeg)
+![Image](design/Web%20capture_6-1-2023_16352_127.0.0.1.jpeg)
+![Image](design/Web%20capture_6-1-2023_14166_127.0.0.1.jpeg)
 
 ### Links
 

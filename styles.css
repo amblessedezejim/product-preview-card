@@ -18,7 +18,7 @@ body {
 
 .container {
  height: 80%;
- width: 80%;
+ width: 95%;
  display: flex;
  flex-direction: column;
  justify-content: space-between;
@@ -97,6 +97,13 @@ h1,
  margin-left: 10px;
 }
 
+footer {
+ position: absolute;
+ bottom: 10px;
+ font-size: 11px;
+ text-align: center;
+}
+
 @media screen and (min-width: 500px) {
  .container {
   display: grid;
@@ -118,11 +125,8 @@ h1,
   border-top-right-radius: 0px;
   border-top-right-radius: 0px;
  }
-}
 
-footer {
- position: absolute;
- bottom: 10px;
- font-size: 11px;
- text-align: center;
+ footer {
+  font-size: 14px;
+ }
 }
