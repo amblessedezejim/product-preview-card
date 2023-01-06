@@ -9,7 +9,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -21,8 +20,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/amblessedezejim/product-preview-card)
+- Live Site URL: [Live site URL](https://amblessedezejim.github.io/product-preview-card/)
 
 ### Built with
 
@@ -32,11 +31,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - CSS Grid
 - Mobile-first workflow
 
-### Useful resources
-
-- [Font awesome](https://fontawesome.com/) - For adding icons to my webpage
-
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Ambllessed Ezejim](https://www.frontendmentor.io/profile/amblessedezejim)
 - Twitter - [@Amblessed Ezejim](https://www.twitter.com/amblessedezejim)
