@@ -34,4 +34,4 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Author
 
 - Frontend Mentor - [@Ambllessed Ezejim](https://www.frontendmentor.io/profile/amblessedezejim)
-- Twitter - [@Amblessed Ezejim](https://www.twitter.com/amblessedezejim)
+- Twitter - [@Amblessed Ezejim](https://www.twitter.com/codibility)
