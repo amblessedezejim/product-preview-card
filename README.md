@@ -20,7 +20,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- [Solution URL](https://github.com/amblessedezejim/product-preview-card)
+- [Solution URL](https://github.com/codibility/product-preview-card)
 - [Live site URL](https://codibility.github.io/product-preview-card/)
 
 ### Built with
